@@ -1,0 +1,6 @@
+List buku yang dapat dipinjam :
+Budidaya Tanaman (7716180)
+Belajar Bahasa Indonesia (7716181)
+Cara menggunakan python (7716182)
+Mudah berbahasa Inggris (7716183)
+Mudah Berbicara (7716184)
